@@ -4,18 +4,26 @@ public class LongestWordSequence {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a sentence: ");
         String input = sc.nextLine();
- 
+
         String longestWord = findLongestWord(input);
         System.out.println("Longest word: " + longestWord);
-    }    
+    }
     public static String findLongestWord(String sentence) {
-        String[] words = sentence.split("\\s+");
-        String longest = "";        
-        for (String word : words) {
-            if (word.length() > longest.length()) {
-                longest = word;
+        String longestWord = "", currentWord = "";
+        int maxLength = 0;
+
+        for (int i = 0; i <= sentence.length(); i++) {
+            char ch = (i < sentence.length()) ? sentence.charAt(i) : ' '; 
+            if (ch != ' ') {
+                currentWord += ch; 
+            } else {
+                if (currentWord.length() > maxLength) {
+                    longestWord = currentWord;
+                    maxLength = currentWord.length();
+                }
+                currentWord = ""; 
             }
         }
-        return longest;
+        return longestWord;
     }
 }
