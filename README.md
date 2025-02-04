@@ -4,7 +4,7 @@
 
 ## 📌 *Assignment 1* - 19-01-2025  
 ### *Concepts Covered:*  
-✔ Variables, Literals, Primitive Data Types, Basic I/O Operators 
+✔ Variables, Literals, Primitive Data Types, Basic I/O Operators
 ✔ Best Practice in Naming Convention
 
 ---
@@ -46,9 +46,9 @@
 ## 📌 *Assignment 6* - 29-01-2025  
 ### *Concepts Covered:*  
 ✔ Handling Strings & Common String Functions  
-✔ Functions, Parameter Passing & Return Values 
+✔ Functions, Parameter Passing & Return Values
 ✔ Few common built-in function - Random, Math
-✔ Introduction to Date & Time Handling  
+✔ Introduction to Date & Time Handling
 
 ---
 
