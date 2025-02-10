@@ -47,7 +47,7 @@
 ### *Concepts Covered:*  
 ✔ Handling Strings & Common String Functions  
 ✔ Functions, Parameter Passing & Return Values
-✔ Few common built-in function - Random, Math
+✔ Few common built-in functions - Random, Math
 ✔ Introduction to Date & Time Handling
 
 ---
@@ -58,7 +58,7 @@
 ✔ Classes & Objects  
 ✔ Creating Classes with Methods & Variables  
 ✔ Using Objects  
-✔ Getter ans Setter
+✔ Getter and Setter
 
 ---
 
@@ -78,3 +78,18 @@
 ✔ instanceof Operator - Checking Object’s Class Type  
 
 ---
+
+
+## 📌 *Assignment 10* - 06-02-2025
+### *Concepts Covered:*
+✔ Classes vs. Objects in Java
+✔ Class Diagram
+✔ Object Diagram
+✔ Sequence Diagram
+
+### *Questions Practiced:*
+✔ Class, Object, and Sequence diagram of School Result application, Grocery Store Bill generation
+✔ Object relationships and Communication problems regarding Aggregation, Association, and Composition.
+
+---
+
