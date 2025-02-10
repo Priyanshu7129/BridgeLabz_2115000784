@@ -79,7 +79,7 @@
 
 ---
 
-📌 Assignment 10 - 06-02-2025  
+## 📌 *Assignment 10* - 06-02-2025  
 ### *Concepts Covered:*  
 ✔ Classes vs. Objects in Java  
 ✔ Class Diagram  
@@ -92,7 +92,7 @@
 
 ---
 
-📌 Assignment 11 - 07-02-2025 
+## 📌 *Assignment 11* - 07-02-2025 
 ### *Concepts Covered:*  
 ✔ Inheritance  
 ✔ Types of Inheritance  
