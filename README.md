@@ -4,7 +4,7 @@
 
 ## 📌 *Assignment 1* - 19-01-2025  
 ### *Concepts Covered:*  
-✔ Variables, Literals, Primitive Data Types, Basic I/O Operators
+✔ Variables, Literals, Primitive Data Types, Basic I/O Operators 
 ✔ Best Practice in Naming Convention
 
 ---
@@ -79,17 +79,36 @@
 
 ---
 
+📌 Assignment 10 - 06-02-2025  
+### *Concepts Covered:*  
+✔ Classes vs. Objects in Java  
+✔ Class Diagram  
+✔ Object Diagram  
+✔ Sequence Diagram  
 
-## 📌 *Assignment 10* - 06-02-2025
-### *Concepts Covered:*
-✔ Classes vs. Objects in Java
-✔ Class Diagram
-✔ Object Diagram
-✔ Sequence Diagram
+### *Questions Practiced:*  
+✔ Class, Object, and Sequence diagram of School Result application, Grocery Store Bill generation  
+✔ Object relationships and Communication problems regarding Aggregation, Association, and Composition  
 
-### *Questions Practiced:*
-✔ Class, Object, and Sequence diagram of School Result application, Grocery Store Bill generation
-✔ Object relationships and Communication problems regarding Aggregation, Association, and Composition.
+---
+
+📌 Assignment 11 - 07-02-2025 
+### *Concepts Covered:*  
+✔ Inheritance  
+✔ Types of Inheritance  
+✔ Key features of Inheritance  
+✔ Method overriding  
+✔ Constructor Inheritance in Java  
+✔ Polymorphism and Inheritance  
+✔ Access Modifiers and Inheritance  
+
+### *Questions Practiced:*  
+✔ Solved Basic Problems related to Inheritance like Animal Hierarchy, Employee Management System, and Vehicle and Transport System.  
+✔ Topic-wise problems on:  
+  - Single Inheritance (Library Management and Smart Home Devices)  
+  - Multilevel Inheritance (Online Retail Order Management and Educational Course Hierarchy)
+  - Hierarchical Inheritance (Bank Account Types and School System with Different Roles)
+  - Hybrid Inheritance (Restaurant Management System and Vehicle Management System) 
 
 ---
 
