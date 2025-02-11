@@ -3,9 +3,11 @@
 ---
 
 ## 📌 *Assignment 1* - 19-01-2025  
+
 ### *Concepts Covered:*  
-✔ Variables, Literals, Primitive Data Types, Basic I/O Operators 
-✔ Best Practice in Naming Convention
+✔ Variables, Literals, Primitive Data Types, Basic I/O Operators  
+✔ Best Practice in Naming Convention  
+
 
 ---
 
@@ -44,11 +46,13 @@
 ---
 
 ## 📌 *Assignment 6* - 29-01-2025  
+
 ### *Concepts Covered:*  
 ✔ Handling Strings & Common String Functions  
-✔ Functions, Parameter Passing & Return Values
-✔ Few common built-in functions - Random, Math
-✔ Introduction to Date & Time Handling
+✔ Functions, Parameter Passing & Return Values  
+✔ Few common built-in functions - Random, Math  
+✔ Introduction to Date & Time Handling  
+
 
 ---
 
@@ -111,4 +115,27 @@
   - Hybrid Inheritance (Restaurant Management System and Vehicle Management System) 
 
 ---
+
+## 📌 *Assignment 12* - 10-02-2025  
+
+### *Concepts Covered:*  
+✔ Encapsulation  
+✔ Polymorphism  
+✔ Compile and Run-time Polymorphism  
+✔ Interface  
+✔ Abstract Classes  
+
+### *Questions Practiced:*  
+✔ Employee Management System  
+✔ E-Commerce Platform  
+✔ Vehicle Rental System  
+✔ Banking System  
+✔ Library Management System  
+✔ Online Food Delivery System  
+✔ Hospital Patient Management  
+✔ Ride-Hailing Application  
+
+---
+
+
 
