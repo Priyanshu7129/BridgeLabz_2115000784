@@ -137,5 +137,23 @@
 
 ---
 
+## 📌 *Assignment 13* - 12-02-2025  
+
+### *Concepts Covered:*  
+✔ Introduction of Data Structure  
+✔ Key Features of Data Structure in Java  
+✔ Types of Data Structure in Java  
+✔ Single Linked list  
+✔ Double Linked List  
+✔ Circular Linked List
+
+
+### *Questions Practiced:*   
+✔ Topic-wise problems on:  
+  - Single Linked List (Student Record Management, Inventory Management System, Social Media Friend Connection)  
+  - Double Linked List (Movie Management System, Library Management System, Undo/Redo Functionality of Text Editor)
+  - Circular Linked List (Task Scheduler, Round Robin Scheduling Algorithm, Online Ticket Reservation System)
+
+---
 
 
