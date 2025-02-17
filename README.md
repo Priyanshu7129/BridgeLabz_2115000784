@@ -147,12 +147,54 @@
 ✔ Double Linked List  
 ✔ Circular Linked List
 
-
 ### *Questions Practiced:*   
 ✔ Topic-wise problems on:  
   - Single Linked List (Student Record Management, Inventory Management System, Social Media Friend Connection)  
   - Double Linked List (Movie Management System, Library Management System, Undo/Redo Functionality of Text Editor)
   - Circular Linked List (Task Scheduler, Round Robin Scheduling Algorithm, Online Ticket Reservation System)
+
+---
+
+## 📌 *Assignment 14* - 13-02-2025  
+
+### *Concepts Covered:*  
+✔ Stack    
+✔ Queue  
+✔ HashMap and Hashing Function  
+
+### *Questions Practiced:*   
+✔ Stack and Queue:
+  - Implement a Queue using Stack
+  - Sort a Stack using recursion
+  - stock span problem
+  - sliding window maximum
+  - Circular Tour Problem
+
+✔ HashMap and Hashing Function:
+  - find all subarrays with zero sum
+  - check for a pair with a given sum in an array
+  - Longest Consecutive Sequence
+  - Implement a custom HashMap
+  - Two sum problem
+
+---
+
+## 📌 *Assignment 15* - 14-02-2025  
+
+### *Concepts Covered:*  
+✔ Bubble Sort    
+✔ Insertion Sort  
+✔ Merge Sort  
+✔ Quick Sort  
+
+### *Questions Practiced:*   
+✔ Bubble Sort - Sort Student Marks  
+✔ Insertion Sort - Sort Employee IDs  
+✔ Merge Sort - Sort an Array of Book Prices  
+✔ Quick Sort - Sort Product Prices  
+✔ Selection Sort - Sort Exam Scores  
+✔ Heap Sort - Sort Job Applicants by Salary  
+✔ Counting Sort - Sort Student Ages  
 
 ---
 
